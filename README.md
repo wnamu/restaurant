@@ -1,9 +1,9 @@
 # Restaurant Review
 
 ## Hong Kong (홍콩)
-- [홍콩, 야우마떼이 미도카페 (2013)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222978067507)
+- [홍콩, 야우마떼이 미도카페 - Mido Café, 美都餐室 (2013)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222978067507)
 - [홍콩, 침사추이 찰리 브라운 카페 (2016)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222418992043)
-- [홍콩, 센트럴 얌차 (2017)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222623558975)
+- [홍콩, 센트럴 얌차 - YUMCHA, 飲茶 (2017)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222623558975)
 - [홍콩, 침사추이 찰리 브라운 카페 (2018)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222418992043)
 
 
