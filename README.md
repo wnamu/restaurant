@@ -12,4 +12,5 @@
 
 ## Japan
 - [일본 후쿠오카, 나카스 요시즈카 우나기야 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222971744533)
+- [일본 후쿠오카, 하카타 타리즈커피 (TULLY'S COFFEE) 하카타마루이점 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222976518259)
 - [일본 후쿠오카, JR 하카타시티 가고시마 쿠로카츠테이 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223035434087)
