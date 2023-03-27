@@ -1,5 +1,12 @@
 # Restaurant Review
 
+## Hong Kong (홍콩)
+- [홍콩, 야우마떼이 미도카페 (2013)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222978067507)
+- [홍콩, 침사추이 찰리 브라운 카페 (2016)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222418992043)
+- [홍콩, 센트럴 얌차 (2017)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222623558975)
+- [홍콩, 침사추이 찰리 브라운 카페 (2018)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222418992043)
+
+
 ## Korea (대한민국)
 - [대한민국 서울, 태극당 인사점 (2019)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222622160521)
 - [대한민국 서울, 하계동 마들원 (2021)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222641344974)
