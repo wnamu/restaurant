@@ -1,5 +1,8 @@
 # Restaurant Review
 
+## Bali (발리)
+- [발리, 알로프트 발리 꾸따 앳 비치워크 호텔 - DEPOT BY ALOFT (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222853940431)
+
 ## Hong Kong (홍콩)
 - [홍콩, 하버시티 피자익스프레스 (2013)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222978067507)
 - [홍콩, 야우마떼이 미도카페 - Mido Café, 美都餐室 (2013)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222610844343)
