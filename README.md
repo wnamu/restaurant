@@ -29,4 +29,4 @@
 - [일본 후쿠오카, JR 하카타시티 가고시마 쿠로카츠테이 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223035434087)
 
 ## Taiwan (타이완/대만)
-- [대만, 리락쿠마차야 (Rilakkuma茶屋) (2018)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222391900857)
+- [대만 타이베이, 리락쿠마차야 (Rilakkuma茶屋) (2018)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222391900857)
