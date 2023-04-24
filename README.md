@@ -3,6 +3,7 @@
 ## Bali (발리)
 - [발리, 알로프트 발리 꾸따 앳 비치워크 호텔 - DEPOT BY ALOFT (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222853940431)
 
+
 ## Hong Kong (홍콩)
 - [홍콩, 하버시티 피자익스프레스 (2013)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222978067507)
 - [홍콩, 야우마떼이 미도카페 - Mido Café, 美都餐室 (2013)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222610844343)
@@ -27,6 +28,11 @@
 - [일본 후쿠오카, 나카스 요시즈카 우나기야 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222971744533)
 - [일본 후쿠오카, 하카타 타리즈커피 (TULLY'S COFFEE) 하카타마루이점 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222976518259)
 - [일본 후쿠오카, JR 하카타시티 가고시마 쿠로카츠테이 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223035434087)
+
+
+## Macau (마카오)
+- [마카오, 라이힌(麗軒) - 리츠칼튼 마카오 호텔 (2019)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222426801307)
+
 
 ## Taiwan (타이완/대만)
 - [대만 타이베이, 리락쿠마차야 (Rilakkuma茶屋) (2018)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222391900857)
