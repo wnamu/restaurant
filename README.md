@@ -45,4 +45,6 @@
 - [발리 스미냑 방콕키친](https://search.naver.com/search.naver?query=%EB%B0%9C%EB%A6%AC+%EC%8A%A4%EB%AF%B8%EB%83%91+BANGKOK+KITCHEN)
 - [발리 우붓 스타박소](https://search.naver.com/search.naver?query=%EB%B0%9C%EB%A6%AC+%EC%9A%B0%EB%B6%93+%EC%8A%A4%ED%83%80%EB%B0%95%EC%86%8C)
 - [발리 꾸따 규카츠텐진](https://search.naver.com/search.naver?query=%EB%B0%9C%EB%A6%AC+%EA%BE%B8%EB%94%B0+%EA%B7%9C%EC%B9%B4%EC%B8%A0%ED%85%90%EC%A7%84)
+- [샌프란시스코 블루보틀 민트스트리트](https://search.naver.com/search.naver?query=%EC%BA%98%EB%A6%AC%ED%8F%AC%EB%8B%88%EC%95%84+66%EB%AF%BC%ED%8A%B8%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8)
+- [시카고 파이브가이즈](https://search.naver.com/search.naver?query=%EB%AF%B8%EA%B5%AD+%EC%8B%9C%EC%B9%B4%EA%B3%A0+%ED%8C%8C%EC%9D%B4%EC%A6%88%EA%B0%80%EC%9D%B4%EC%A6%88)
 - [후쿠오카 라멘스타디움 혼다쇼텐](https://search.naver.com/search.naver?query=%ED%9B%84%EC%BF%A0%EC%98%A4%EC%B9%B4+%EB%9D%BC%EB%A9%98%EC%8A%A4%ED%83%80%EB%94%94%EC%9B%80+%ED%98%BC%EB%8B%A4%EC%87%BC%ED%85%90)
