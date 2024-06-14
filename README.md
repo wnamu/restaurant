@@ -29,7 +29,9 @@
 - [일본 후쿠오카, 나카스 요시즈카 우나기야 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222971744533)
 - [일본 후쿠오카, 하카타 타리즈커피 (TULLY'S COFFEE) 하카타마루이점 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222976518259)
 - [일본 후쿠오카, JR 하카타시티 가고시마 쿠로카츠테이 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223035434087)
-- [일본 후쿠오카, 캐널시티 라멘스타디움 혼다쇼텐(2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223274875143)
+- [일본 후쿠오카, 캐널시티 라멘스타디움 혼다쇼텐 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223274875143)
+- [일본 도쿄, 이세탄백화점 츠키지 미야가와 혼텐 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223460365513)
+- [일본 오사카, 풍월 츠루하시후게츠 에비스바시점 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223448932805)
 
 
 ## Macau (마카오)
