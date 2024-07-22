@@ -6,6 +6,7 @@
 
 
 ## Hong Kong (홍콩)
+- [홍콩, 린키핫폿 시푸드 레스토랑 (2009)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223281118468)
 - [홍콩, 하버시티 피자익스프레스 (2013)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222978067507)
 - [홍콩, 야우마떼이 미도카페 - Mido Café, 美都餐室 (2013)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222610844343)
 - [홍콩, 카터킹 딤섬 (2015)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222668412074)
@@ -23,6 +24,8 @@
 - [대한민국 서울, 강남역 사가라멘 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222776563136)
 - [대한민국 서울, 강남역 제주몬트락 강남본점 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222981828441)
 - [대한민국 서울, 코엑스 아라비카 응커피 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223042139147)
+- [대한민국 서울, 강남역 땀땀 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223473606095)
+- [대한민국 서울, 강남역 을밀대 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223511547606)
 
 
 ## Japan (일본)
