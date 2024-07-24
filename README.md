@@ -12,7 +12,9 @@
 - [홍콩, 카터킹 딤섬 (2015)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222668412074)
 - [홍콩, 침사추이 찰리 브라운 카페 (2016)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222418992043)
 - [홍콩, 센트럴 얌차 - YUMCHA, 飲茶 (2017)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222623558975)
+- [홍콩, 코즈웨이베이 하이산플레이스 호흥키 콘지 & 누들 (2017)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222395681864)
 - [홍콩, 침사추이 찰리 브라운 카페 (2018)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222418992043)
+- [홍콩, K11 뮤제아 아티장 라운지 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223200469896)
 
 
 ## Korea (대한민국)
