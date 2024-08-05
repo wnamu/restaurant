@@ -15,19 +15,25 @@
 - [홍콩, 코즈웨이베이 하이산플레이스 호흥키 콘지 & 누들 (2017)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222395681864)
 - [홍콩, 침사추이 찰리 브라운 카페 (2018)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222418992043)
 - [홍콩, K11 뮤제아 아티장 라운지 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223200469896)
+- [홍콩, 센트럴 파이브가이즈 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223139698833)
 
 
 ## Korea (대한민국)
 - [대한민국 서울, 태극당 인사점 (2019)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222622160521)
-- [대한민국 서울, 하계동 마들원 (2021)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222641344974)
 - [대한민국 서울, 상암 사보이시티 블랙서커스 (2021)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222607278173)
 - [대한민국 서울, 상암 먹자골목 대판이자카야 텐 (2021)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222650448621)
+- [대한민국 서울, 역삼역 아야커피 (2021)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222622007482)
+- [대한민국 서울, 하계동 마들원 (2021)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222641344974)
 - [대한민국 서울, 상계동 치킨마루 보람한신점 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222995643806)
 - [대한민국 서울, 강남역 사가라멘 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222776563136)
 - [대한민국 서울, 강남역 제주몬트락 강남본점 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222981828441)
 - [대한민국 서울, 코엑스 아라비카 응커피 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223042139147)
+- [대한민국 서울, 강남역 갓덴스시 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223480459729)
+- [대한민국 서울, 강남역 고디바 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223523184031)
 - [대한민국 서울, 강남역 땀땀 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223473606095)
 - [대한민국 서울, 강남역 을밀대 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223511547606)
+- [대한민국 서울, 종로 을지면옥 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223511434439)
+- [대한민국 서울, 한티역 히카리 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223511883752)
 
 
 ## Japan (일본)
