@@ -43,7 +43,8 @@
 - [일본 후쿠오카, 캐널시티 라멘스타디움 혼다쇼텐 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223274875143)
 - [일본 도쿄, 이세탄백화점 츠키지 미야가와 혼텐 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223460365513)
 - [일본 오사카, 풍월 츠루하시후게츠 에비스바시점 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223448932805)
-
+- [일본 나고야, 코메다커피 오카게안 사카에 히로코지점 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223508325159)
+  
 
 ## Macau (마카오)
 - [마카오, 라이힌(麗軒) - 리츠칼튼 마카오 호텔 (2019)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222426801307)
@@ -51,8 +52,13 @@
 
 ## Taiwan (타이완/대만)
 - [대만 타이베이, 리락쿠마차야 (Rilakkuma茶屋) (2018)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222391900857)
+- [대만 타이베이, 시먼 핫스타지파이 (하오다다지파이/豪大大雞排) (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223335346862)
+  
 
+## Singapore (싱가포르)
+- [싱가포르, 폼폼푸린 카페 (2017)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222824759476)
 
+  
 # Restaurant Search
 - [교토 아라시야마 과자처 쿄히미코](https://search.naver.com/search.naver?query=%EA%B3%BC%EC%9E%90%EC%B2%98+%EC%BF%84%ED%9E%88%EB%AF%B8%EC%BD%94)
 - [교토 아라시야마 미피 사쿠라 키친 & 베이거리](https://search.naver.com/search.naver?query=%EB%AF%B8%ED%94%BC+%EC%82%AC%EC%BF%A0%EB%9D%BC+%ED%82%A4%EC%B9%9C+%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC+%EC%95%84%EB%9D%BC%EC%8B%9C%EC%95%BC%EB%A7%88)
