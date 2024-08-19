@@ -1,8 +1,10 @@
 # Restaurant Review
 
 ## Bali (발리)
+- [발리, 꾸따 비치워크 쟈니로켓 (2014)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222929788953)
 - [발리, 알로프트 발리 꾸따 앳 비치워크 호텔 - DEPOT BY ALOFT (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222853940431)
 - [발리, 꾸따 규카츠텐진 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222870713630)
+- [발리, 짱구 댕쿠키 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223095927390)
 
 
 ## Hong Kong (홍콩)
@@ -13,6 +15,7 @@
 - [홍콩, 침사추이 찰리 브라운 카페 (2016)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222418992043)
 - [홍콩, 센트럴 얌차 - YUMCHA, 飲茶 (2017)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222623558975)
 - [홍콩, 코즈웨이베이 하이산플레이스 호흥키 콘지 & 누들 (2017)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222395681864)
+- [홍콩, 침사추이 더원 딤섬아이콘 (2018)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223243676810)
 - [홍콩, 침사추이 찰리 브라운 카페 (2018)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222418992043)
 - [홍콩, K11 뮤제아 아티장 라운지 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223200469896)
 - [홍콩, 센트럴 파이브가이즈 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223139698833)
