@@ -35,6 +35,7 @@
 - [대한민국 서울, 강남역 고디바 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223523184031)
 - [대한민국 서울, 강남역 땀땀 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223473606095)
 - [대한민국 서울, 강남역 을밀대 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223511547606)
+- [대한민국 서울, 상암동 수레갈비 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223531108772)
 - [대한민국 서울, 종로 을지면옥 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223511434439)
 - [대한민국 서울, 한티역 히카리 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223511883752)
 
