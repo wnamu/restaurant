@@ -47,8 +47,10 @@
 - [일본 후쿠오카, 캐널시티 라멘스타디움 혼다쇼텐 (2022)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223274875143)
 - [일본 도쿄, 이세탄백화점 츠키지 미야가와 혼텐 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223460365513)
 - [일본 오사카, 풍월 츠루하시후게츠 에비스바시점 (2023)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223448932805)
+- [일본 도쿄, 가와사키 오누마 장어 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223496361003)
 - [일본 나고야, 코메다커피 오카게안 사카에 히로코지점 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223508325159)
-  
+- [일본 후쿠오카, 오하시역 쿠로다야 우나기 장어 (2024)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=223459188877)
+    
 
 ## Macau (마카오)
 - [마카오, 라이힌(麗軒) - 리츠칼튼 마카오 호텔 (2019)](https://blog.naver.com/PostView.naver?blogId=w_namu&logNo=222426801307)
